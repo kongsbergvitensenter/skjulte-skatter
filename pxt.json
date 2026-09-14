@@ -1,0 +1,26 @@
+{
+    "name": "Skjulte skatter",
+    "description": "Eksempel på hvordan man kan løse oppgaven \"Skjulte skatter\" fra Kodeklubben Kongsberg og Kongsberg Vitensenter",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.1.25",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj"
+}
